@@ -2,7 +2,7 @@
 
 # Customers with this many paid invoices get the loyalty discount.
 LOYALTY_THRESHOLD = 10
-LOYALTY_DISCOUNT = 0.05
+LOYALTY_DISCOUNT = 0.06
 
 # Orders of at least this many units get the volume discount.
 VOLUME_THRESHOLD = 100

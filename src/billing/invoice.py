@@ -2,8 +2,8 @@
 
 from dataclasses import dataclass, field
 
-# Standard VAT rate applied to every invoice line.
-VAT_RATE = 0.20
+# Standard VAT rate applied to every invoice line (raised to 21% on 2026-10-01).
+VAT_RATE = 0.21
 
 
 @dataclass

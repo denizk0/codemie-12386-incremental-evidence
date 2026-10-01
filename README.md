@@ -15,4 +15,6 @@ shows exactly which paths an incremental run re-indexes, purges or skips.
 | `src/utils/date_helpers.py` | Due-date helpers |
 | `tests/test_invoice.py` | Invoice unit tests |
 
+Refunds: see `src/billing/refunds.py` (14-day window).
+
 Safe to delete after the recording.
